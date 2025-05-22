@@ -32,7 +32,6 @@ if uploaded_file:
 
                     # Show result
                     st.markdown("### 🔍 Result")
-                    st.markdown(f"**Item Type:** `{prediction}`")
 
                     if prediction.lower() == "recyclable":
                         st.success("✅ The item is recyclable.")
