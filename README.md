@@ -8,7 +8,7 @@ A lightweight Streamlit web app that allows users to upload an image and receive
 
 ## 🔗 Live Demo
 
-- 🌐 **Web App**: [Streamlit App](https://recycler-ecfplt3dqynmtfuep4ylm9.streamlit.app/)
+- 🌐 **Web App**: [Streamlit App](https://recycler-lydianzr.streamlit.app/)
 - ⚙️ **API Endpoint**: [Recycler API](https://recycler-api.onrender.com)
 
 ---
