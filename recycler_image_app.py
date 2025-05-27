@@ -26,8 +26,8 @@ if uploaded_file:
                     result = response.json()
                     prediction = result.get("prediction", "Unknown")
 
-                    # Show uploaded image
-                    st.image(uploaded_file, caption="Uploaded Image", use_container_width=True)
+                    # Show uploaded image with fixed width to avoid large scrolling
+                    st.image(uploaded_file, caption="Uploaded Image", width=300)
 
 
                     # Show result
